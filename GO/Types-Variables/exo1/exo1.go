@@ -8,6 +8,7 @@
 ///							-- Weight (int)
 ///							-- Home Town (string)
 ///							-- Country (string)
+///				- Assign a value for each variables
 ///				- Print the result:
 ///							-- with Println
 ///							-- with Printf
