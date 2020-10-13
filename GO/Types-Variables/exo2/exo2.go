@@ -10,7 +10,7 @@
 ///							-- Country (string)
 ///				- Don't assign a value
 ///				- Print the type and the result:
-///							-- with Println
+///							-- with Println and Printf
 //////////////////////////////////////////////////
 package main
 
@@ -20,7 +20,7 @@ import (
 
 func main() {
 
-	//Variable declaration and values assignement
+	//Variable declaration
 	var lastname string
 	var firstname string
 	var age int
@@ -40,5 +40,4 @@ func main() {
 	//By default, if we don't assign any values, for string you have blank , int you have 0 , boolean you have false
 	fmt.Println("Print result without vvalues assigned")
 	fmt.Println(" Last Name: ", lastname, "\n", "First Name: ", firstname, "\n", "Age: ", age, "\n", "Height: ", height, "\n", "Weight: ", weight, "\n", "HomeTown: ", hometown, "\n", "Country: ", country, "\n", "Right Hand: ", righthand, "\n", "Left Hand: ", lefthand)
-
 }
