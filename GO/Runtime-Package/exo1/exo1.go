@@ -14,7 +14,10 @@ import (
 
 func main() {
 
-	fmt.Println("Environment architecture:", runtime.GOARCH)
-	fmt.Println("Environment OS:", runtime.GOOS)
-
+	fmt.Printf("Informations concerning the environment\n")
+	fmt.Println("OS\t\t", runtime.GOOS)
+	fmt.Println("CPU\t\t", runtime.NumCPU())
+	fmt.Println("ARCH\t\t", runtime.GOARCH)
+	fmt.Println("Go Routine\t", runtime.NumGoroutine())
+	fmt.Printf("\n")
 }
