@@ -1,0 +1,11 @@
+# Types and Variables
+- Exercise 1
+  - Create 6 variables (First name , Last name , Age , Height , Weight , Home Town , Country) , Assign values and print out the result
+- Exercise 2
+  -  Create 6 variables (First name , Last name , Age , Height , Weight , Home Town , Country) , Don't assign values and print out the result
+- Exercise 3
+  - Use the function sprintf to assign the result to the variable  to a specific variable and print it
+- Exercise 4
+  - Create your own type (outside the main function --> Package level) and use it
+- Exercise 5
+  - Use the same code as Exercise4. Convert your own type to integer for example and print it
