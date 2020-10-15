@@ -15,7 +15,7 @@ import (
 func main() {
 	//Define my slice. You don't indicate the size for the slice
 	myslice := []int{23, 8, 33, 18, 12, 56, 24, 99, 7, 9, 12, 45}
-	fmt.Printf("indice\t\tval\n")
+	fmt.Printf("index\t\tval\n")
 	//Browse the slice
 	for indice, val := range myslice {
 		fmt.Printf("%d\t\t%d\n", indice, val)
