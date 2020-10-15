@@ -1,7 +1,6 @@
 # GO
 #### A set of exercices I did to learn Go (^_^)
-
-
+------------------
 |Domain |Number of exercises|
 |-------|:-----------------|
 |Types and Variables|5|
