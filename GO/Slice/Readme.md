@@ -1,0 +1,13 @@
+# Slice
+- Exercise 1
+  - Create a slice of integer and print the content
+- Exercise 2
+  - Use Slice capabilities to create new slices from the original slice
+- Exercise 3
+  - Add values on the original slice and print the updated slice
+- Exercise 4
+  - Create a slice of integer , add 3 values in 1 line , add values from another slice , print the final version of the slice
+- Exercise 5
+  - Delete one value from the original slice and print out the updated slice
+- Exercise 6
+  - Create a multi dimensional slice of strings
