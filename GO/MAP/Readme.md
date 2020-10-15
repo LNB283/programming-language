@@ -1,0 +1,15 @@
+# Map
+- Exercise 1
+  - Create a map with values , print the map content , print the type and lenght
+- Exercise 2
+  - Create an empty map , print the map content , print the type and lenght
+- Exercise 3
+  - Create a map by using make function
+- Exercise 4
+  - Add new key/value pair on an existing map
+- Exercise 5
+  - Delete a key/value pair
+- Exercise 6
+  - Print the map content by using for statement
+- Exercise 7
+  - Clear an existing map and print the lenght
