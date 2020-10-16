@@ -10,3 +10,4 @@
 |Array|1|
 |Slice|6|
 |Map|7|
+|Structure|3|
