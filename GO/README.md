@@ -11,3 +11,4 @@
 |Slice|6|
 |Map|7|
 |Structure|3|
+|Functions|3|
