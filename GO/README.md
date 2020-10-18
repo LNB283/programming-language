@@ -1,6 +1,15 @@
 # GO
 #### A set of exercices I did to learn Go (^_^)
 ------------------
+## Resources
+- https://godoc.org/
+- https://gobyexample.com/
+- https://golang.org/
+- https://play.golang.org/
+- https://mholt.github.io/json-to-go/
+- https://goplay.space/
+------------------
+## Exerceses list
 |Domain |Number of exercises|
 |-------|:-----------------|
 |Types and Variables|5|
