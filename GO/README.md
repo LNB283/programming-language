@@ -13,3 +13,5 @@
 |Structure|3|
 |Functions|3|
 |Pointers|2|
+|JSON|2|
+|Sort|2|
