@@ -12,3 +12,4 @@
 |Map|7|
 |Structure|3|
 |Functions|3|
+|Pointers|2|
