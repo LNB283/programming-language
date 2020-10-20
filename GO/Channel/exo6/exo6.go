@@ -1,3 +1,9 @@
+/////////////////exo6.go///////////////////////////
+///objective(s):
+///				- Create a function loopchannel
+///					-- Populate the channel with xx values (here just 20)
+///				- Print out the result
+//////////////////////////////////////////////////
 package main
 
 import "fmt"
@@ -9,11 +15,9 @@ func main() {
 	for value := range channel {
 		fmt.Println(value)
 	}
-
-	fmt.Println("about to exit")
 }
 func loopchannel(channel chan int) {
-	for i := 0; i < 100; i++ {
+	for i := 0; i < 20; i++ {
 		channel <- i
 	}
 	close(channel)

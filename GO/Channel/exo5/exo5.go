@@ -1,3 +1,9 @@
+/////////////////exo5.go///////////////////////////
+///objective(s):
+///				- Create an anonymous function and she's self-executed
+///				- Use the comma ok idiom (it's like a boolean)
+///				- Print out the result
+//////////////////////////////////////////////////
 package main
 
 import (
@@ -15,8 +21,5 @@ func main() {
 	fmt.Printf("First iteration\nvalue:%v\tbool:%v\n", v, ok)
 
 	close(c)
-
-	v, ok = <-c
-	fmt.Printf("Second iteration\nvalue:%v\t\tbool:%v\n", v, ok)
 
 }

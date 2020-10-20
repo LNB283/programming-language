@@ -1,3 +1,7 @@
+/////////////////exo4.go///////////////////////////
+///objective(s):
+///				- Same s exo3.go but you use a select in the function to print out the content
+//////////////////////////////////////////////////
 package main
 
 import (

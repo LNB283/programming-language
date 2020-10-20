@@ -1,3 +1,12 @@
+/////////////////exo3.go///////////////////////////
+///objective(s):
+///				- Create a function
+///					-- Param <- chan int
+///					-- Print out all values on the channel
+///				- Create a second fucntion
+///					-- no param , return <- chan int
+///					-- This function populates the channel by using un loop
+//////////////////////////////////////////////////
 package main
 
 import (
