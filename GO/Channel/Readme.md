@@ -1,0 +1,13 @@
+# Channel
+- Exercise 1
+  - Create a function with parameter chan int , assign a value on the channel , print out the result
+- Exercise 2
+  - Create bidirectional channel with buffer
+- Exercise 3
+  - Create 2 functions. 1 to populte the channel and another to print out the result (use For statement)
+- Exercise 4
+  - Same as exercise3 but use select statement to print out the result 
+- Exercise 5
+  - Use the comma ok idiom (it's like a boolean)
+- Exercise 6
+  - reate a function loopchannel to populate the channel
