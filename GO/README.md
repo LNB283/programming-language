@@ -24,3 +24,5 @@
 |Pointers|2|
 |JSON|2|
 |Sort|2|
+|Channel|6|
+
