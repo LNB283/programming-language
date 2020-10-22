@@ -24,7 +24,7 @@ func (se sqrtError) Error() string {
 }
 
 func main() {
-	value := 7.67
+	value := 7.6
 	//value := -7.67
 	resultat, err := sqrt(value)
 	if err != nil {
