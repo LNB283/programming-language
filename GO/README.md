@@ -25,4 +25,5 @@
 |JSON|2|
 |Sort|2|
 |Channel|6|
+|Error Handling|3|
 
