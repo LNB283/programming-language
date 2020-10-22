@@ -1,0 +1,14 @@
+# Error Handling
+- Exercise 1
+  - Reuse the exercise: JSON/exo1/exo1.go
+  - Update the error handling part by using "log.Println"
+- Exercise 2
+  - Reuse the exercise: exo1.go
+	- Create a function ConverttoJSON
+  - Parameters: interface{}
+  - Return slice of byte and error
+- Exercise 3
+  - Create a function sqrt
+  - Parameter: float64
+  - return float64 and error
+  - If the value is less than 0 , print out an error and exit the program
