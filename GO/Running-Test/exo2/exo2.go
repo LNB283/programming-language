@@ -4,8 +4,14 @@
 ///					-- Parameters : veriadic param of int
 ///					-- Return : int
 ///				- create a second function on the same package (in a different file : main_test.go)
+///				- This second function should be a table of test
 ///					-- Name : TestSum
 ///					-- Parameters : (t *testing.T)
+///						---Create a structure test
+///							: testdataslice is a slice of integer
+///							: testdataresult is a integer
+///						---Create a variable testdata and you assign a list of values
+///					--create a loop to perform the test
 //////////////////////////////////////////////////
 
 package main
@@ -30,5 +36,5 @@ func sum(value ...int) int {
 	}
 	return sum
 	//Test if our test function works good and raise the error flag
-	//return sum +2
+	//return sum + 2
 }
