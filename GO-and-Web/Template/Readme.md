@@ -10,6 +10,9 @@
 - https://goplay.space/
 ------------------
 ## Exerceses list
-|Domain |Number of exercises|
+|Exercise |Description|
 |-------|:-----------------|
-|||
+|Merge-simple-data||
+|Merge-simple-data-v2||
+|Merge-simple-data-v3||
+|`arsing-Glob||
