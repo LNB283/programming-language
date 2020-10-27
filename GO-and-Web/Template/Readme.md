@@ -1,5 +1,5 @@
 # GO and Web
-#### A set of exercices to use GO on Webdev
+## Domain : Template
 ------------------
 ## Resources
 - https://godoc.org/
@@ -12,4 +12,4 @@
 ## Exerceses list
 |Domain |Number of exercises|
 |-------|:-----------------|
-|Template|4|
+|||
