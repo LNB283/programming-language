@@ -21,6 +21,7 @@ func main() {
 	lastname := os.Args[2]
 	//Give the age of the player
 	ageplayer := os.Args[3]
+
 	//Program executes
 	fmt.Println(os.Args[0])
 	//The additional input
