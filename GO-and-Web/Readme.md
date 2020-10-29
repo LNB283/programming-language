@@ -1,5 +1,5 @@
-# GO
-#### A set of exercices I did to learn Go (^_^)
+# GO and Web
+#### A set of exercices to use GO on Webdev
 ------------------
 ## Resources
 - https://godoc.org/
@@ -13,19 +13,4 @@
 ## Exerceses list
 |Domain |Number of exercises|
 |-------|:-----------------|
-|Types and Variables|5|
-|Bool-numeric-string-constant-ASCII|7|
-|Loop-If-Switch|10|
-|Runtime|1|
-|Array|1|
-|Slice|6|
-|Map|7|
-|Structure|3|
-|Functions|3|
-|Pointers|2|
-|JSON|2|
-|Sort|2|
-|Channel|6|
-|Error Handling|3|
-|Running Tests|2|
-
+|Template|4|
