@@ -13,7 +13,7 @@
 ## Exerceses list
 |Domain |Number of exercises|
 |-------|:-----------------|
-|Types and Variables|5|
+|Types and Variables|6|
 |Bool-numeric-string-constant-ASCII|7|
 |Loop-If-Switch|10|
 |Runtime|1|
