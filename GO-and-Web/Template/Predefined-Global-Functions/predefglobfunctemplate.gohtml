@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>predefined global functions</title>
+</head>
+<body>
+
+
+Print all Information
+{{range .}}
+    {{.}}
+{{end}}
+
+
+Retired player
+{{range .}}
+    {{if .Retired}}
+       First Name: {{.FirstName}}
+       Last Name : {{.LastName}} 
+       Age : {{.Age}}
+    {{end}}
+{{end}}
+
+Active player
+{{range.}}
+    {{if not .Retired}}
+        First Name: {{.FirstName}}
+        Last Name : {{.LastName}} 
+        Age : {{.Age}}
+    {{end}}
+ {{end}}   
+
+</body>
+</html>
