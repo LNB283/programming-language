@@ -9,3 +9,5 @@
   - Create your own type (outside the main function --> Package level) and use it
 - Exercise 5
   - Use the same code as Exercise4. Convert your own type to integer for example and print it
+- Exercise 6
+  - Manipulate package [time](https://golang.org/pkg/time/#pkg-constants)
