@@ -2,7 +2,7 @@
 ///objective(s):
 ///				- Based on the information input on the index.gohtml
 ///				- Gather the information from the request
-///				- Parse the index.gothml file
+///				- Parse the index.gothml
 ///				- Write the answer
 /////////////////////////////////////////////////////////////////////////////////////////////////
 package main
