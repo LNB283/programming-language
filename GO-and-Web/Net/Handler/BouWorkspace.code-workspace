@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Golang"
+		},
+		{
+			"path": "../../../../Forensics"
+		}
+	],
+	"settings": {}
+}
