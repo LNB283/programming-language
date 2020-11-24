@@ -13,4 +13,8 @@
 ## Exerceses list
 |Domain |Number of exercises|
 |-------|:-----------------|
-|Template|4|
+|Template|10|
+|Server|7|
+|Net|8|
+|Pass_Data|4|
+|Files_Manipulation|3|
