@@ -23,19 +23,20 @@ func main() {
 	http.ListenAndServe(":8080", nil)
 }
 
-func index(w http.ResponseWriter, req *http.Request) {
+func index(varwriter http.ResponseWriter, varreq *http.Request) {
 	id := uuid.Must(uuid.NewV4())
 	//fmt.Printf("UUIDv4: %s\n", id)
-	cookie, err := req.Cookie("session")
+	varcookie, err := varreq.Cookie("session")
 	if err != nil {
-		cookie = &http.Cookie{
+		varcookie = &http.Cookie{
 			Name:  "session",
 			Value: id.String(),
 			// Secure: true,
 			HttpOnly: true,
 			Path:     "/",
 		}
-		http.SetCookie(w, cookie)
+		http.SetCookie(varwriter, varcookie)
 	}
-	fmt.Println(cookie)
+	//Print out on the terminal the session information
+	fmt.Println(varcookie)
 }
