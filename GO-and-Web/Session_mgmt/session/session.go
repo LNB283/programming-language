@@ -28,7 +28,7 @@ var vartemplate *template.Template
 //userID , user
 var dbUsers = map[string]user{}
 
-//sessionID , userID
+//sessionID , user ID
 var dbSessions = map[string]string{}
 
 func init() {
