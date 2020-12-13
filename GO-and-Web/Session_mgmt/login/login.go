@@ -6,7 +6,6 @@ import (
 
 func getUser(req *http.Request) user {
 	var u user
-
 	// get cookie
 	c, err := req.Cookie("session")
 	if err != nil {
