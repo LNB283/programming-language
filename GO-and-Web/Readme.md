@@ -18,3 +18,5 @@
 |Net|8|
 |Pass_Data|4|
 |Files_Manipulation|3|
+|Cookies_mgmt|4|
+|Session_mgmt|4|
